@@ -13,8 +13,8 @@ Pretty simple python script that shows battery info.
 # Dependencies
 
 * `python3.7`
-* `psutil`
-* `Font Awesome`
+* [`psutil`](https://github.com/giampaolo/psutil) 
+* [`Font Awesome`](https://github.com/FortAwesome/Font-Awesome)
 
 # Config
 
