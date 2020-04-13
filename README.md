@@ -2,12 +2,12 @@
 
 Pretty simple python script that shows battery info.
 # Appearance
-![](charge.png)
-![](full.png)
-![](three-quarters.png)
-![](half.png)
-![](quarter.png)
-![](empty.png)
+![](images/charge.png)
+![](images/full.png)
+![](images/three-quarters.png)
+![](images/half.png)
+![](images/quarter.png)
+![](images/empty.png)
 
 
 # Dependencies
